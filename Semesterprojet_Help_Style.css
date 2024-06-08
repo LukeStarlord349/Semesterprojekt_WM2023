@@ -1,0 +1,37 @@
+/* body{
+    background-color: #ff9d00;
+    text-align: center;
+}
+
+.h {
+    color: green;
+}
+
+p::first-letter {
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+
+a:visited {
+    color:blueviolet;
+}
+*/
+body {
+    padding-top: 74px;
+  }
+
+.navbar-brand {
+    font-family: 'Brush Script MT';
+    font-size: xx-large;
+}
+
+.footer-header {
+    font-family: 'Brush Script MT';
+    font-size: xx-large;
+}
+
+.footer-title {
+    font-size: larger;
+}
+
+/* Login Seite CSS: */

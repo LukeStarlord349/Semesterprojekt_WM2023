@@ -1,0 +1,10 @@
+.background-image {
+    background-image: url('../pictures/background_hotel.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.title {
+    font-size: 100px;
+
+}
